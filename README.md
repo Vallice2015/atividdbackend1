@@ -1,4 +1,4 @@
-# API — Perfis, Projetos, Tecnologias e Feedbacks
+# API — Node + express
 API REST em **Node.js + Express**, com **Sequelize** e banco **SQLite** (arquivo local, sem precisar instalar MySQL/Postgres).
 
 ## 1. Estrutura de pastas 
