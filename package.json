@@ -1,0 +1,15 @@
+{
+  "name": "api-perfis-projetos-tecnologias",
+  "version": "1.0.0",
+  "description": "API REST em Node.js + Express com Sequelize (SQLite): Profile 1:N Project, Project N:N Technology, Project 1:N Feedback.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  }
+}
